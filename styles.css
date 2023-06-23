@@ -1,8 +1,7 @@
 /*  your css code here. If applicable */
-body{
+.cont{
 	background-color: #f5f5f5;
-	margin: 20px;
-	padding: 10px;
+	padding: 40px;
 }
 .box{
   border: 1px solid black;
